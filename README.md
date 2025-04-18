@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋 My name is Andrey
 
-<!--
-**dar-ju/dar-ju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Frontend Developer
 
-Here are some ideas to get you started:
+- 🌍 I'm based in Moscow, Russia
+- 🔭 I'm currently working on a Frontend Mentor challenges, [Frontend Mentor](https://www.frontendmentor.io/profile/dar-ju)
+- 🖥️ See my FM solutions portfolio at [Github Pages](https://dar-ju.github.io/)
+- ✉️ You can contact me at [7061630@gmail.com](mailto:7061630@gmail.com)
+- 🌱 At the moment I'am learning Primevue and Node.js
+- 🤝 I'm open to collaborating on exciting projects as a frontend developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend Skills
+
+<img
+    src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,sass,vue,pinia,vite,primevue,bootstrap,webpack,typescript,github&theme=light" width="660" height="48" alt="Frontend Skills"
+/>
+
+### Other Skills
+
+<img
+    src="https://go-skill-icons.vercel.app/api/icons?i=figma,ps,vscode,excel,wordpress&theme=light" width="270" height="48" alt="Other Skills"
+/>
+
+### Languages Stat
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dar-ju&layout=compact)
