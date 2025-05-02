@@ -5,7 +5,6 @@
 - 🌍 I'm based in Moscow, Russia
 - 🔭 I'm currently working on a [Frontend Mentor](https://www.frontendmentor.io/profile/dar-ju) challenges
 - 🖥️ See my FM solutions portfolio at [Github Pages](https://dar-ju.github.io/)
-- ✉️ You can contact me at [7061630@gmail.com](mailto:7061630@gmail.com)
 - 🌱 At the moment I'am learning Primevue and Node.js
 - 🤝 I'm open to collaborating on exciting projects as a frontend developer.
 
