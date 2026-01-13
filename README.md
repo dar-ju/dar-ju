@@ -3,7 +3,7 @@
 ## Frontend Developer
 
 - 🌍 I'm based in Moscow, Russia
-- 🔭 I'm currently working on a [Frontend Mentor](https://www.frontendmentor.io/profile/dar-ju) challenges
+- 🔭 I'm currently working on a [TimmyKid](https://timmykid.ru/) project
 - 🖥️ See my FM solutions portfolio at [Github Pages](https://dar-ju.github.io/)
 - 🌱 At the moment I'am learning Primevue and Node.js
 - 🤝 I'm open to collaborating on exciting projects as a frontend developer.
